@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">countapp</string>
+    <string name="dec">-</string>
+    <string name="inc">+</string>
+    <string name="click_counter">count</string>
+    <string name="toast">toast</string>
+    <string name="_0">0</string>
+</resources>
